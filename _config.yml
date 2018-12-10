@@ -1,0 +1,35 @@
+title: Blog
+description: Civic engagement, empowering builders, fun projects
+author: Pete Huang
+about: Filler
+disqus_shortname: 
+google_analytics: UA-XXXXXXXX-Y
+avatar_url: /static/img/Pete.jpg
+
+enableTags: true
+tagarray: []
+
+social:
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/petehuang"
+
+urls:
+    - text: About Me
+      url: /about/
+
+url: "https://peteh.me"
+baseurl: ""
+#paginate: 20
+#per_page: 20
+#paginate_path: "/page/:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: ['development']
