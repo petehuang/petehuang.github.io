@@ -17,6 +17,8 @@ urls:
     - text: About Me
       url: /about/
 
+permalink: /:title
+
 url: "https://peteh.me"
 baseurl: ""
 #paginate: 20

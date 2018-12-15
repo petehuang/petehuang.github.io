@@ -88,7 +88,7 @@
         }, 210);
     }
 
-    window.addEventListener('keyup', function onKeyPress(e) {
+    /*window.addEventListener('keyup', function onKeyPress(e) {
         if (e.which === 27) {
             toggleSearch();
         }
@@ -134,6 +134,6 @@
             }).join('');
         }
         lastSearchResultHash = currentResultHash;
-    });
+    });*/
 
 })();
