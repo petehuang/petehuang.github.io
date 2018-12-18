@@ -6,7 +6,7 @@ date:   2018-12-15 13:47:00 -0800
 
 Currently every two years, the World Chess Championship takes headlines in publications that definitely don’t care about chess the rest of the time, and for the last 4 iterations (2013, 2014, 2016, 2018), Magnus Carlsen has [come out on top](https://fivethirtyeight.com/features/magnus-carlsen-is-again-the-world-chess-champion/) as victor.
 
-In 2013, [Sports Illustrated](https://www.si.com/vault/2013/07/29/106348951/why-pujols-cant-and-arod-wouldnt-touch-this-pitch) nicely summarized two studies that decoded some of the most crucial essences of chess mastery.
+In casual browsing, I found a 2013 [Sports Illustrated article](https://www.si.com/vault/2013/07/29/106348951/why-pujols-cant-and-arod-wouldnt-touch-this-pitch) that nicely summarized two studies that decoded some of the most crucial essences of chess mastery.
 
 First, Dutch psychologist Adriaan de Groot uncovered what appears today to be obvious: that experience matters.
 
@@ -20,7 +20,7 @@ Three decades later, in the 1970s, American psychologists William Chase and Herb
 
 > In order to explain what they saw, Chase and Simon proposed a "chunking theory" of expertise, a pivotal idea that helps explain what Starkes found in her work with field hockey and volleyball players. Chess masters and elite athletes alike "chunk" information on the board or the field. In other words, rather than grappling with a large number of individual pieces, experts unconsciously group information into a smaller number of meaningful chunks based on patterns they have seen before.
 
-I’m reminded of these models when I hear people with at least some depth in a field talk about their work - when dancers talk about “texture”, when traders can reel off the interdependencies across liquidity, price, and all these other concepts that I don’t know, when comedians talk about their sensibilities and constructions of something as seemingly simple as a joke.
+I found these incredibly interesting. I’m reminded of chunking and these models when I hear people with at least some depth in a field talk about their work - when dancers talk about “texture”, when traders can reel off the interdependencies across liquidity, price, and all these other concepts that I don’t know, when comedians talk about their sensibilities and constructions of something as seemingly simple as a joke.
 
 It is that level of understanding, where we explore the nuances of these chunks rather than the individual motions that compose them, that makes things all the more interesting.
 
