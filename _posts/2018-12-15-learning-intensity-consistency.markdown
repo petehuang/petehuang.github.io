@@ -20,11 +20,11 @@ Three decades later, in the 1970s, American psychologists William Chase and Herb
 
 > In order to explain what they saw, Chase and Simon proposed a "chunking theory" of expertise, a pivotal idea that helps explain what Starkes found in her work with field hockey and volleyball players. Chess masters and elite athletes alike "chunk" information on the board or the field. In other words, rather than grappling with a large number of individual pieces, experts unconsciously group information into a smaller number of meaningful chunks based on patterns they have seen before.
 
-I’m reminded of that model when I hear people with at least some depth in a field talk about their work - when dancers talk about “texture”, when traders can reel off the interdependencies across liquidity, price, and all these other concepts that I don’t know, when comedians talk about their sensibilities and constructions of something as seemingly simple as a joke.
+I’m reminded of these models when I hear people with at least some depth in a field talk about their work - when dancers talk about “texture”, when traders can reel off the interdependencies across liquidity, price, and all these other concepts that I don’t know, when comedians talk about their sensibilities and constructions of something as seemingly simple as a joke.
 
 It is that level of understanding, where we explore the nuances of these chunks rather than the individual motions that compose them, that makes things all the more interesting.
 
-For the average person learning a new skills, how do we get to that level as effectively as possible?
+How does the average person learning a new skill get to that level as effectively as possible? Do people develop "chunks" through sheer quantity, through intense periods (almost as trauma burns experiences into your memory), or through prolonged consistency (implying that the deep mental structures take time to form, like a muscle)?
 
 ## Quantity matters
 
@@ -52,7 +52,7 @@ First, intensity.
 
 - For a one-year period extending through most of 2017, Max Deutsch completed a project he called [Month to Master](https://medium.com/@maxdeutsch/m2m-day-1-completing-12-ridiculously-hard-challenges-in-12-months-9843700c741f). Each month, he selected a skill and an associated mastery level he’d want to get to within that month’s time. And he succeeded 11 times out of 12 (the 12th was to [beat Magnus Carlsen at chess](https://medium.com/the-mission/my-month-long-quest-to-become-a-chess-master-from-scratch-51ff8003d3f2) - only a little difficult if you ask me), particularly impressive since the challenges spanned creative output, content expertise, and physicality.
 
-- Take this Reddit post, where /u/T4NKie documented his journey from [zero to C1 French in a year](https://www.reddit.com/r/French/comments/7j37er/0_to_c1_in_a_year_lessons_learned/). As context, C1 is [estimated by the Alliance Francaise](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages#Relationship_with_duration_of_learning_process) to take about 810-950 hours to reach, and most online posts talk about C1 on the order of multiple years. T4NKie then says that replicating the intensity and method in Spanish has resulted in B1/B2 Spanish, which is 350-600 hours.
+- Take this Reddit post, where /u/T4NKie documented his journey from [zero to C1 French in a year](https://www.reddit.com/r/French/comments/7j37er/0_to_c1_in_a_year_lessons_learned/). As context, C1 is [estimated by the Alliance Francaise](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages#Relationship_with_duration_of_learning_process) to take about 810-950 hours to reach, and most online posts talk about C1 on the order of multiple years. T4NKie then says that replicating the intensity and method in Spanish has resulted in B1/B2 Spanish, which is 350-600 hours, in 4 months.
 
 - My own example with intensity involves my journey to learn to program. In 2013, I issued a challenge for myself: without ever taking a single formal class, could I, as a political science student at the time, learn enough in 8 months to compete with actual computer science students with 2 years of formal computer science education and get an internship as a software developer? Yes - I started from simple Ruby tutorials in April 2013 and had an offer in hand for Summer 2014 by December 2013.
 
