@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Learning from good salespeople"
-date:   2019-01-08 10:18:12 -0800
+date:   2019-01-03 10:18:12 -0800
 ---
 
 I don’t have the seller’s gene in me, and I’ve always understood sales in a basic, and basically wrong, way - cold calls, reading off scripts, almost predatory persistence.
