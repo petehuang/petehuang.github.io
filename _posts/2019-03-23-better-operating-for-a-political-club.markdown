@@ -5,11 +5,11 @@ date:   2019-03-23 16:20:12 -0800
 ---
 If you are like most people and have no exposure to the infrastructure of SF local politics - first, let me congratulate you - here’s a brief description of Democratic clubs and neighborhood associations:
 
-Democratic clubs (there aren’t many Republicans in SF) are branches of the local Democratic party, comprise of politics hobbyists, and seek to influence the outcomes of elections, from furthest down-ballot all the way to the White House.
-Neighborhood associations are independently formed groups of neighbors in an area within the city and seek to provide “the resident’s voice” in matters that affect that area - new developments, elections, retail, events, etc.
-Both are often small organizations (<50 people total) because they target a narrow segment of people - some demographic, local geography, etc.
-Both are often reactive organizations - they take action based on someone else’s agenda and rarely drive their own.
-Finally, both are often poorly run, anemic, boring organizations with nothing much more to offer than an update for people who can’t find their own information.
+* Democratic clubs (there aren’t many Republicans in SF) are branches of the local Democratic party, comprise of politics hobbyists, and seek to influence the outcomes of elections, from furthest down-ballot all the way to the White House.
+* Neighborhood associations are independently formed groups of neighbors in an area within the city and seek to provide “the resident’s voice” in matters that affect that area - new developments, elections, retail, events, etc.
+* Both are often small organizations (<50 people total) because they target a narrow segment of people - some demographic, local geography, etc.
+* Both are often reactive organizations - they take action based on someone else’s agenda and rarely drive their own.
+* Finally, both are often poorly run, anemic, boring organizations with nothing much more to offer than an update for people who can’t find their own information.
 
 These organizations are fascinating problems for someone who works at a startup and believes in local impact (me). I simultaneously work at a company that is smaller than the largest of these organizations but slightly larger than most of them and participate in a club that is the largest in the city but whose recent leadership changes define a pivotal moment for the club’s future. And straddling the two makes me wonder just how rare effective business leadership skills can be outside of business.
 
