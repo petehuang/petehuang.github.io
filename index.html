@@ -5,11 +5,27 @@ layout: default
 <div id="home">
   <h1>{{ site.title }}</h1>
 
-  <ul class="posts">
+  <p>
+    10 things I want to do before I turn 36.
+  </p>
+  <ol>
+    <li>Learn how to speak Spanish.</li>
+    <li>Learn how to speak French.</li>
+    <li>Finish a half Ironman.</li>
+    <li>Build a tiny house.</li>
+    <li>Complete (and survive) the Mongol Rally.</li>
+    <li>Drive from South Africa up through Eastern Africa.</li>
+    <li>Stay at a company for at least 6 years.</li>
+    <li>Own a non-software business.</li>
+    <li>Send my parents on a trip to Spain, France and Italy.</li>
+    <li>Compile my mom's recipes into a cookbook.</li>
+  </ol> 
+
+<!--  <ul class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date: "%b %Y" }} - </span> <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
-  </ul>
+</ul>-->
 
   <!-- Pagination links -->
   {% if paginator.total_pages > 1 %}
